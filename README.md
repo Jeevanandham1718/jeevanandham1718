@@ -1,7 +1,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+jeevanandham+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm  jeevanandham Welcome to my Profile! animated typed out">
 <i><h1 style="color:blue;">Hi , I'm V JEEVANANDHAM</h1></i>
-<h3 align="center" style="color:blue;">A passionate frontend developer and App developer from India</h3>
+<h3 align="center" style="color:blue;">A passionate frontend developer and Flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevanandham1718&label=Profile%20views&color=0e75b6&style=flat" alt="jeevanandham1718" /> </p>
 
